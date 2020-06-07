@@ -2,7 +2,7 @@
 
 
 ## Summary
-In this project i investigate a dataset called no show appointments. Data is provided by Udacity.
+In this project I investigate a dataset called no show appointments. Data is provided by Udacity.
 
 ## INTRODUCTION:
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
@@ -16,7 +16,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ● ‘No_show’ it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
 
 ## Progress outline:
-using data analysis proccess to explore a data set answer questions we were interested on.
+Using data analysis proccess to explore a data set answer questions we were interested on.
 
 1-Clean data
 

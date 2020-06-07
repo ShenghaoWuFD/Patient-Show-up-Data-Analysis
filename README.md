@@ -1,5 +1,5 @@
 # Project: Patient Show-up Data Analysis
-All the projects I did using Python/R/SQL
+
 
 ## Summary
 In this project i investigate a dataset called no show appointments. Data is provided by Udacity.
